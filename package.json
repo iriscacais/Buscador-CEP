@@ -1,0 +1,23 @@
+{
+  "name": "buscador-cep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iriscacais/Buscador-CEP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iriscacais/Buscador-CEP/issues"
+  },
+  "homepage": "https://github.com/iriscacais/Buscador-CEP#readme",
+  "dependencies": {
+    "vite": "^3.2.3"
+  }
+}
