@@ -1,3 +1,7 @@
 # Buscador de CEP
 
-deploy da aplicação https://buscadorcep.surge.sh/
+Exercício desenvolvido durante o curso da Trybe. 
+
+### Descrição
+Desenvoler um buscador de CEP utilizando a API https://viacep.com.br.
+- css desenvolvido pela trybe.
